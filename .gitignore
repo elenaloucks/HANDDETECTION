@@ -9,3 +9,7 @@ __pycache__/
 
 # VSCode files
 .vscode/
+
+handsinactual-5abb2c6c4c1c.json
+*.json
+.env
